@@ -1,8 +1,8 @@
 {
   "name": "yummyApp",
   "version": "1.0.0",
-  "engines" : {
-    "node" : "12.12.0"
+  "engines": {
+    "node": "12.12.0"
   },
   "description": "",
   "main": "app.js",
